@@ -1,0 +1,12 @@
+22 : DUMMY_ACTOR : EN_MAME_KURIBO
+244 : RIVER_MGR : Line God
+
+
+
+-- All Replaced Profiles --
+RIVER_MGR
+
+
+
+-- World Map Processes Free for Use: --
+None!
